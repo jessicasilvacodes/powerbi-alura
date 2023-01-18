@@ -1,4 +1,4 @@
-# powerbi-alura
+# Power BI - Alura
 Projetos do curso de formação em Power BI da Alura. 
 
 
